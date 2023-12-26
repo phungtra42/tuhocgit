@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T17:51:14.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Ma83fFThIu2DRGAnXv6W" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T17:58:00.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="VpeHVx3otADcY3KdkWRj" version="22.1.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="546" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="442" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -217,14 +217,14 @@
             <mxPoint x="220" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gm4OabU0IPhh4amC0AsI-70" value="Thực hiện thêm &#39;block&#39; mới vào mạng BC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Gm4OabU0IPhh4amC0AsI-70" value="Đề xuất thêm &#39;block&#39; mới vào mạng BC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="920" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gm4OabU0IPhh4amC0AsI-72" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="1010" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="970" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gm4OabU0IPhh4amC0AsI-73" value="Tin sai ++" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="975" width="80" height="40" as="geometry" />
+        <mxCell id="Gm4OabU0IPhh4amC0AsI-73" value="Thêm &#39;block&#39; mới vào BC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="975" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gm4OabU0IPhh4amC0AsI-74" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gm4OabU0IPhh4amC0AsI-77" target="Gm4OabU0IPhh4amC0AsI-73">
           <mxGeometry relative="1" as="geometry">
@@ -233,16 +233,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gm4OabU0IPhh4amC0AsI-75" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="970" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="970" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gm4OabU0IPhh4amC0AsI-76" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gm4OabU0IPhh4amC0AsI-77">
+        <mxCell id="Gm4OabU0IPhh4amC0AsI-77" value="&#39;block&#39; mới có thỏa mãn đồng nhất" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="960" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gm4OabU0IPhh4amC0AsI-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.01;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gm4OabU0IPhh4amC0AsI-60" target="Gm4OabU0IPhh4amC0AsI-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="1120" as="sourcePoint" />
-            <mxPoint x="220" y="1040" as="targetPoint" />
+            <mxPoint x="320" y="1020" as="sourcePoint" />
+            <mxPoint x="320" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="880" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gm4OabU0IPhh4amC0AsI-77" value="Tin có đúng?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="970" width="120" height="50" as="geometry" />
+        <mxCell id="Gm4OabU0IPhh4amC0AsI-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Gm4OabU0IPhh4amC0AsI-77" target="Gm4OabU0IPhh4amC0AsI-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1020" as="sourcePoint" />
+            <mxPoint x="30" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
